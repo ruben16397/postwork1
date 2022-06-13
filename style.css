@@ -97,3 +97,16 @@ main #phrase{
     color:var(--terciary-font-color) ;
     font-size: 1.2em;
 }
+main #site{
+    text-decoration: none;
+    color: black;
+    font-size: 1em;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 5px;
+    padding: 1em;
+    border: black solid 1px;
+}
+main #site:hover{
+    background-color: gold;
+}
