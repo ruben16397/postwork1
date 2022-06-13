@@ -47,7 +47,7 @@ body{
 #nav-buttons{
     margin-right: 10vh;
     padding: 0.5em;
-    margin: 1em;
+    margin-right: 10vw;
 }
 #sign-in{
     text-decoration: none;
@@ -92,7 +92,6 @@ main #demo-button{
     border-radius: 5px;
     color: white;
     border: 0;
-
 }
 main #phrase{
     color:var(--terciary-font-color) ;
